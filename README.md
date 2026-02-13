@@ -1,6 +1,7 @@
 # Simple Task Manager
 
 This project is a command-line task manager built in Python.
+(A simple command-line task manager built with Python and JSON persistence)
 
 ## Features
 
