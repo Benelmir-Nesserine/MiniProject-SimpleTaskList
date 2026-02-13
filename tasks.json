@@ -1,14 +1,18 @@
 [
     {
-        "title": "washing the dishes",
+        "title": "Finish Python mini project",
         "done": false
     },
     {
-        "title": "preparing moscoutcho",
-        "done": false
-    },
-    {
-        "title": "doing the homework",
+        "title": "Prepare research presentation",
         "done": true
+    },
+    {
+        "title": "Read scientific article",
+        "done": false
+    },
+    {
+        "title": "Submit GitHub repository",
+        "done": false
     }
 ]
