@@ -1,0 +1,14 @@
+[
+    {
+        "title": "washing the dishes",
+        "done": false
+    },
+    {
+        "title": "preparing moscoutcho",
+        "done": false
+    },
+    {
+        "title": "doing the homework",
+        "done": true
+    }
+]
